@@ -1,0 +1,33 @@
+p {
+  font-size: 50px;
+  font-family: 'メイリオ', "Meiryo", Arial, sans-serif
+  sans-serif;
+  color:aliceblue
+  }
+  
+  
+  
+  .kasaneru{
+    position: relative;
+    text-align: center;
+  }
+  .kasaneru p {
+    position: absolute;
+    top: 30% ;
+    left: 50% ;
+    -ms-transform: translate(-50%,-50%);
+    -webkit-transform: translate(-50%,50%);
+    transform: translate(-50%,-50%);
+  
+   margin: 0! important;
+    padding: 0! important;
+    }
+  
+  p {
+    line-height:10px
+  }
+  */
+  .img-box img {
+      text-align: center;
+   }
+   
